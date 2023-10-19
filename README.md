@@ -3,10 +3,10 @@ Carte heuristique de l'informatique
 
 # ITree
 
-## [Concepts] (## Concepts)
+## [Concepts] 
 
 
-## [Technologies] (## Technologies)
+## [Technologies] 
 
 ## [Lexique]
 
@@ -30,7 +30,7 @@ Carte heuristique de l'informatique
 
 # CONTENT
 
-## Concepts
+## (Concepts)
 
 ### Sciences de l'Informatique
 
