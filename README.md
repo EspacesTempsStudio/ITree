@@ -11,4 +11,4 @@ Les principes de cet arbre sont les suivants :
 
 En prenant en compte ces grands axes, tout est envisageable !
 
-Pour celles et ceux qui préferent une collaboration plus visuelle vous pouvez allez sur le digipad : [Digipad_ITree] (https://digipad.app/p/535003/af485352c46ca)
+Pour celles et ceux qui préferent une collaboration plus visuelle vous pouvez allez sur le digipad : [Digipad_ITree](https://digipad.app/p/535003/af485352c46ca)
