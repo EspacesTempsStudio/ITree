@@ -2,7 +2,7 @@
 
 - Antique
 
-	- ~2000 av. J.-C. Système de numération babylonien
+	- ~2000 av. J.-C. Système de numération antique (babylonien)
 
 	- ~500 av. J.-C. Abaque
 
